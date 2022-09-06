@@ -16,7 +16,6 @@ I'm Elliott and i'm studying computer science at Mizzou
 
 ## Contact
 - Email - elliottjweiler@gmail.com
-- Discord - nullptr#7790
 
 <!---
 Uncut-Gems/Uncut-Gems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
