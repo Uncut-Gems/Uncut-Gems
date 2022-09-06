@@ -7,6 +7,8 @@ I'm Elliott and i'm studying computer science at Mizzou
 - Unannounced game
 - Destiny Datamining Discord
   - https://discord.gg/6wjgzRcG2u
+- Youtube
+  - https://www.youtube.com/channel/UChLY1ClzTeanp5aWV4Hhb8Q
 
 ## Languages
 - C++ (Intermediate)
