@@ -6,7 +6,7 @@ I'm Elliott and i'm studying computer science at Mizzou
 - D2 Custom Servers
 - Unannounced game
 - Destiny Datamining Discord
-  - https://discord.gg/6wjgzRcG2u
+  - https://discord.gg/PT4kJA68tE
 - Youtube
   - https://www.youtube.com/channel/UChLY1ClzTeanp5aWV4Hhb8Q
 
